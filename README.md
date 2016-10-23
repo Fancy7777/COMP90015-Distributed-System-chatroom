@@ -1,9 +1,9 @@
 # COMP90015-Distributed-System-chatroom
 A chatroom application with good looking GUI and implement all needed functions from specification
  
-# data folder includes the keystore and truestore file that can be used in any computer without permission
-
-# image folder includes all the images that needed for GUI
+ data folder includes the keystore and truestore file that can be used in any computer without permission
+ 
+ image folder includes all the images that needed for GUI
 
 # Further development
 May support more failure handling cases.
